@@ -11,7 +11,7 @@ config = {
     // When running Ghost in the wild, use the production environment.
     // Configure your URL and mail settings here
     production: {
-        url: 'http://my-ghost-blog.com',
+        url: 'http://needalyft.net',
         mail: {},
         database: {
             client: 'sqlite3',
@@ -35,7 +35,7 @@ config = {
 
         server: {
             host: '127.0.0.1',
-            port: '2368'
+            port: '2369'
         }
     },
 
